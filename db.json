@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "11f6",
+      "name": "test",
+      "mobileNumber": "09274902947",
+      "email": "test@test.ts",
+      "address": "test street",
+      "gender": "male",
+      "password": "123456",
+      "birthdate": "2024-07-09"
+    },
+    {
+      "id": "4358",
+      "name": "test",
+      "mobileNumber": "09274902947",
+      "email": "test@test.ts",
+      "address": "test street",
+      "gender": "male",
+      "password": "123456",
+      "birthdate": "2024-07-09"
+    },
+    {
+      "id": "ed99",
+      "name": "test",
+      "mobileNumber": "09274902947",
+      "email": "test@test.tss",
+      "address": "test street",
+      "gender": "male",
+      "password": "U2FsdGVkX1++ZDvrsaYoZNtePDTFSmdZblGc0yQF2uA=",
+      "birthdate": "2024-07-09"
+    }
+  ]
+}
